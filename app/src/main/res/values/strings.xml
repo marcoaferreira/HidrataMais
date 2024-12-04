@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HidrataMais</string>
+    <string name="name_app_title">Hidrata+</string>
+    <string name="subtitle_home_screen">Insira o intervalo de notificação (minutos):</string>
+    <string name="button_text">Me notificar</string>
+</resources>
